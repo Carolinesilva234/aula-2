@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+.container{
+    background-color: gray;
+    display: flex ;
+    flex-direction: column-reverse;
+    justify-content: left;
+}
+.num4{
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+    
+}
+.num3{
+    background-color: pink;
+    width: 50px;
+    height: 50px;
+}
+.num2{
+    background-color: blueviolet;
+    width: 50px;
+    height: 50px;
+}
+.num1{
+    background-color: blue;
+    width:50px;
+    height: 50px;
+}
